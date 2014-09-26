@@ -1,0 +1,20 @@
+create table usuarios
+(
+id int  IDENTITY(1,1),
+nombre varchar(30) not null,
+aPaterno varchar(30) not null,
+aMaterno varchar(30) not null,
+edad int null,
+sexo int ,
+calle varchar(30) not null,
+noExt varchar(5) not null,
+noInt varchar(5) null,
+colonia varchar(30)not null,
+ cp varchar(7) null,
+ciudad varchar(30)not null,
+estado varchar(30)not null,
+telefono varchar(15) null,
+celular varchar(15) null,
+email varchar(60) null
+)
+go
