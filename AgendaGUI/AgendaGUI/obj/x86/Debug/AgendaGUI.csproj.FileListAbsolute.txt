@@ -1,0 +1,8 @@
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\bin\Debug\AgendaGUI.exe
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\bin\Debug\AgendaGUI.pdb
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\obj\x86\Debug\AgendaGUI.Form1.resources
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\obj\x86\Debug\AgendaGUI.Properties.Resources.resources
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\obj\x86\Debug\AgendaGUI.csproj.GenerateResource.Cache
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\obj\x86\Debug\AgendaGUI.exe
+c:\users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\obj\x86\Debug\AgendaGUI.pdb
+C:\Users\adrian\documents\visual studio 2010\Projects\AgendaGUI\AgendaGUI\obj\x86\Debug\AgendaGUI.csprojResolveAssemblyReference.cache
